@@ -6,7 +6,7 @@
       "price": 10500,
       "description": "THE OMEGA 2022 RANGE OFFERS IMMACULATE BALANCE AND AN ALL-INCLUSIVE HITTING AREA. THE OMEGA STRIKES A PERFECT EQUILIBRIUM OF PERFORMANCE AND VALUE FOR MONEY. CRAFTED FROM SELECTED GRADE 3 ENGLISH WILLOW, OMEGA OFFERS GREAT AESTHETICS FOR ITS BUDGET AND UNMATCHED PERFORMANCE.",
       "category": "Bat",
-      "image": "https://firebasestorage.googleapis.com/v0/b/e-commdb-afd73.appspot.com/o/bat-1.jpg?alt=media&token=f25a1aa7-9ca3-4146-a8bf-8278c271fe93",
+      "image": "./photos/bat-1.jpg",
       "star": 3
     },
     {
